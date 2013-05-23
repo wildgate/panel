@@ -1,0 +1,4 @@
+panel
+=====
+
+Work activity panel
